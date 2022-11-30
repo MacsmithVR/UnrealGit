@@ -6,5 +6,8 @@
 AUnrealGitGameModeBase::AUnrealGitGameModeBase()
 	:Super()
 {
+
+
+	UE_LOG(LogTemp, Warning, TEXT("Hola soy Alberto"));
 	
 }
