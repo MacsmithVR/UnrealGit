@@ -3,3 +3,8 @@
 
 #include "UnrealGitGameModeBase.h"
 
+AUnrealGitGameModeBase::AUnrealGitGameModeBase()
+	:Super()
+{
+	
+}

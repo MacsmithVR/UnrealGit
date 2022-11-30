@@ -13,5 +13,8 @@ UCLASS()
 class UNREALGIT_API AUnrealGitGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
+	AUnrealGitGameModeBase();
 	
 };
